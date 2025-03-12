@@ -1,4 +1,4 @@
-# 🧮 📊 Data Analysis Dashboard — Dicoding Collection
+# 📊 Data Analysis Dashboard — Dicoding Collection
 
 ## 📖 Project Overview
 ```
