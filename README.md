@@ -21,6 +21,7 @@ pip install -r requirements.txt
 
 ## 🏗️ Setup Environment - Shell/Terminal
 ```
+mkdir Submission_Analisis_Data
 cd Submission_Analisis_Data
 pipenv install
 pipenv shell
