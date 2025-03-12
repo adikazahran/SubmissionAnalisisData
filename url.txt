@@ -1,1 +1,5 @@
+- Link Web Streamlit
 https://dzcbfpaepladqg3zgthzdy.streamlit.app/
+
+- Link Github
+https://github.com/adikazahran/SubmissionAnalisisData.git
